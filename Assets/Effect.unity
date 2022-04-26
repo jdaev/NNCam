@@ -231,4 +231,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a226377011916cd44863133d87a746da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _deviceName: 
+  _deviceName: FaceTime HD Camera
